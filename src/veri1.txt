@@ -1,0 +1,8 @@
+eren 6
+selin 5
+selin 15
+kamil 8
+okan 8
+selin 20
+pelin 6
+kamil 6

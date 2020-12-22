@@ -1,0 +1,7 @@
+omer 20
+rasim 70
+fatma 23
+talat 20
+ayse 20
+fatma 17
+talat 15
